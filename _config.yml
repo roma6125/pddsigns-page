@@ -36,27 +36,27 @@ features                                  :
 
   - title                                 : Всегда самая свежая редакция ПДД
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : exclamation
 
   - title                                 : Работает без доступа в интернет
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : wifi
 
   - title                                 : Изменение размера шрифта
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : font
 
   - title                                 : Удобная навигация по пунктам и знакам
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : link
 
   - title                                 : Большие и качественные изображения
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : image
 
   - title                                 : Поиск по материалам
     description                           : 
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : search
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
