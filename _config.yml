@@ -49,11 +49,11 @@ features                                  :
     description                           : 
     fontawesome_icon_name                 : link
 
-  - title                                 : Большие и<br>качественные изображения
+  - title                                 : Большие и качественные<br>изображения
     description                           : 
     fontawesome_icon_name                 : image
 
-  - title                                 : Поиск по всем материалам<br>и разделам
+  - title                                 : Поиск по материалам<br>и разделам
     description                           : 
     fontawesome_icon_name                 : search
 
