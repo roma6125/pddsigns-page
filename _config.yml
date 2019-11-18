@@ -33,27 +33,27 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Всегда самая свежая редакция ПДД
+  - title                                 : Всегда самая свежая<br>редакция ПДД
     description                           : 
     fontawesome_icon_name                 : exclamation
 
-  - title                                 : Работает без доступа в интернет
+  - title                                 : Работает без доступа<br>в интернет
     description                           : 
     fontawesome_icon_name                 : wifi
 
-  - title                                 : Изменение размера шрифта
+  - title                                 : Изменение размера<br>шрифта
     description                           : 
     fontawesome_icon_name                 : font
 
-  - title                                 : Удобная навигация по пунктам и знакам
+  - title                                 : Удобная навигация<br>по пунктам и знакам
     description                           : 
     fontawesome_icon_name                 : link
 
-  - title                                 : Большие и качественные изображения
+  - title                                 : Большие и<br>качественные изображения
     description                           : 
     fontawesome_icon_name                 : image
 
-  - title                                 : Поиск по материалам
+  - title                                 : Поиск по всем материалам<br>и разделам
     description                           : 
     fontawesome_icon_name                 : search
 
